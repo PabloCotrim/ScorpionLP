@@ -23,5 +23,5 @@ A proposta desse desafio e construir uma Lading Page, para uma excursão, mostra
 # Habilidades Adquiridas
 - [x] Persistencia, Proatividade, Mentalidade de Crescimento, Responsabilidade Pessoal, Atenção aos Detalhes.
 
-# Visualização do site
+# Visualização do website
 https://scorpiontrip.netlify.app/
